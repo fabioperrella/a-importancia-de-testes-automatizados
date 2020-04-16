@@ -1,4 +1,24 @@
-# A importância de testes automatizados
+# Guia de Sobrevivência Dev - A importância de testes automatizados
+
+## Quem sou eu
+
+Fabio Perrella
+
+Líder técnico na Locaweb
+
+Formado na Poli-USP, Engenharia de Computação
+
+Algumas tecnologias que uso no dia a dia: Ruby, Ruby on Rails, Postgres, Sidekiq, Redis, Git, Docker, Mysql, Bash Script, JS, PHP, etc..
+
+Comecei a programar de verdade em 2005!
+
+Usando Ruby desde 2009!
+
+Links:
+
+- https://twitter.com/fabioperrella
+- https://www.linkedin.com/in/fabio-perrella-8247976/
+- https://github.com/fabioperrella
 
 ## Problema a resolver
 
@@ -164,7 +184,6 @@ end
 - ajuda em uma futura refatoração do código
 - ajuda no "design" do código. Ver mais detalhes sobre [TDD](https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533)
 
-## Links
+## Repositório dessa apresentação
 
 - https://github.com/fabioperrella/a-importancia-de-testes-automatizados
-- https://twitter.com/fabioperrella
